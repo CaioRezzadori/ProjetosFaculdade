@@ -1,0 +1,3 @@
+O arquivo Makefile possui comandos apenas para a compilação de cada arquivo, uma vez que não seria muito eficiente fazer um comando para rodar um arquivo exercicioX, uma vez que basta digitar ./X no terminal para executá-lo após sua compilação.
+
+Para compilar algum arquivo do tipo exercicioX.c, basta escrever "make exercicioX" que os executáveis serão gerados.
